@@ -1,0 +1,52 @@
+html {
+    background-image: url("images/boardBackground.jpg");
+    background-repeat: repeat;
+}
+
+body {
+    width: 600px;
+    margin: 0px auto;
+    padding: 2px 95px;
+    opacity: 0.9;
+    background-color: white;
+    font-family: 'Kavivanar', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kavivanar', cursive;
+    letter-spacing: 4px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Kavivanar', cursive;
+    font-variant: small-caps;
+}
+
+center {
+    font-size: 12px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+div {
+    border-radius: 45px;
+    width: 600px;
+    height: 45px;
+    background-color: rgb(60, 60, 60);
+    color: white;
+}
+.orange {
+    color: orange;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
